@@ -5,7 +5,7 @@
  <h1 align="center">#OUTPUT</h1>
  <pre><h><i>Options Available ==></i></h1>
     print("**** < Enter your choice >   ******************************************************")
-    print("**                              		                      ")
+    print("**                              		                                                ")
     print("**      Add (A+B)                             ==> 1      ")
     print("**      Subtract (A-B)                        ==> 2      ")
     print("**      Multiply (A*B)                        ==> 3      ")
@@ -20,7 +20,7 @@
     print("**      Get Factorial of number              ==> 12      ")
     print("**      Swap Two numbers                     ==> 13      ")
     print("**      Exit                                 ==> 14      ")
-    print("**                             		                      ")
+    print("**                             		                                                    ")
     print("**** < Enter your choice >   ******************************************************\n\n")
  </pre>
 <img src="2022-04-01 (1).png" alt="CAL1">
